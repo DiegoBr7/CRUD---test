@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "titulo": "O Senho dos Aneis",
+        "editora": "dh"
+    },
+    {
+        "id": 2,
+        "titulo": "O Retorno do rei",
+        "editora": "dh"
+    },
+    {
+        "id": 3,
+        "titulo": "Harry Potter",
+        "editora": "dh"
+    }
+]
